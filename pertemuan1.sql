@@ -167,3 +167,5 @@ ID_KTG NAMA_ITEM                 HARGA
 HP0001 iPhone 15              15000000                                          
 
 SQL> SPOOL OFF
+
+EROR = original😎😎😎😎
